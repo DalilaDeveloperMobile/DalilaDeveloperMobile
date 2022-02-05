@@ -1,7 +1,7 @@
 ### <h2>Olá sou Dalila!!!!👋</h2>
 
 <h4>🔭 Gosto Muito de Programação...</h4>
-<h4>🌱 Sou Uma Dev FLutter...</h4>
+<h4>🌱 Sou Uma Dev Flutter...</h4>
 
 <div>
  <a href="https://github.com/DalilaDeveloperWeb">
