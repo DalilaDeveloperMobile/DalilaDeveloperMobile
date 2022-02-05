@@ -3,11 +3,11 @@
 <h4>🔭 Gosto Muito de Programação...</h4>
 <h4>🌱 Sou Uma Dev Flutter...</h4>
 
-<div>
- <a href="https://github.com/DalilaDeveloperWeb">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DalilaDeveloperWeb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalilaDeveloperWeb&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
+<div align="center">
+  <a href="https://github.com/DalilaDeveloperWeb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DalilaDeveloperWeb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalilaDeveloperWeb&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
  <h3>Contatos :</h3>
