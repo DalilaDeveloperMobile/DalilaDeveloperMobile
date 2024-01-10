@@ -11,7 +11,7 @@
 </div>
 
 <div  class="row align-vertical"> 
- <h3 align="left">"Tenho um canal no youtube com o objetivo de promover meus aplicativos para que possam instalá-los e usá-los em seus celulares. Sempre que eu lançar um novo aplicativo farei vídeos para informar."</h3>   
+ <h3 width="400" align="left">"Tenho um canal no youtube com o objetivo de promover meus aplicativos para que possam instalá-los e usá-los em seus celulares. Sempre que eu lançar um novo aplicativo farei vídeos para informar."</h3>   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </div>
 
