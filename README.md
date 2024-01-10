@@ -1,5 +1,5 @@
 ### <h2>Olá sou Dalila!!!!👋</h2>
-<h4> <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg"> Sou Uma Dev Flutter. Gosto Muito de Programação...</h4>
+<!--<h4> <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg"> Sou Uma Dev Flutter. Gosto Muito de Programação...</h4> -->
 
 <div align="center"> 
 <img src="https://yt3.googleusercontent.com/H9G0Zn1FNBJeXMbmzataMXZDVsDLesSXQNe0CRNXpVyfw4miNUM_o8ZkdKOlkFtE5_m-RKLp=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"> </div>
