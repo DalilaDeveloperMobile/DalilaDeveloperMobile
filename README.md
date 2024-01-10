@@ -2,7 +2,7 @@
 <div align="left">
   <h3 align="center">"Tenho um canal no youtube com o objetivo de promover meus aplicativos para que possam instalá-los e usá-los em celulares. Sempre que eu lançar um novo aplicativo farei vídeos para informar."   
  
-  <a href="www.youtube.com/@lilasantana"><img height="30" width="40" src="https://yt3.googleusercontent.com/qcmNO_rYyGCg0GuDdy5EeFTiTmZWHryVTCLumINe-ihVYgWXl-92pzAaaRZVMBz8Q9azPeHVC7s=s900-c-k-c0x00ffffff-no-rj">
+  <a href="https://www.youtube.com/channel/UCIpdS7RBgoSJ1ir6Moj3s4w"><img height="40" width="40" src="https://yt3.googleusercontent.com/qcmNO_rYyGCg0GuDdy5EeFTiTmZWHryVTCLumINe-ihVYgWXl-92pzAaaRZVMBz8Q9azPeHVC7s=s900-c-k-c0x00ffffff-no-rj">
     </a>
   </h3>
 </div> 
