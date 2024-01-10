@@ -28,7 +28,8 @@
   <a href="https://play.google.com/store/apps/details?id=br.com.dev.quiz_biblico" target="_blank"> Quiz Bíblico. <img height="40" width="40" src="https://play-lh.googleusercontent.com/tjOZkmhZEmfqopQ2xJYo2Ye4pKW6-S4VPV6HNJr4Hk-ildMwguzh9E3LJRJljzToW0I=w240-h480-rw" target="_blank">
   </a> 
 </h3> 
-
+ </div>
+  <div style="display: inline-block">
 <h3 align="center">
   <a href="https://play.google.com/store/apps/details?id=br.com.dev.flix_believer" target="_blank"> Flix Believer. <img height="40" width="40" src="https://play-lh.googleusercontent.com/dDCYqwBCD_nuFzh30dd9ZEUaBOdV_7Q0Mwd-Fwx6HDdiC0MnvsHT7cA3MdehKwYzt1s=w240-h480-rw" target="_blank">
   </a> 
