@@ -62,7 +62,7 @@
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
   <img align="center" alt="android studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg">
-  <img align="center" alt="Google Play Store" height="40" width="40" src="https://c.clc2l.com/t/g/o/google-playstore-Iauj7q.png"><br>
+  <img align="center" alt="Google Play Store" height="30" width="30" src="https://c.clc2l.com/t/g/o/google-playstore-Iauj7q.png"><br>
 </div>
  
     
