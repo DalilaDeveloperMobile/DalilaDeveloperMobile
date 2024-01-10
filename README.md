@@ -4,10 +4,7 @@
   <h3 align="center">www.youtube.com/@lilasantana</h3>
 </div> 
 
-<div align="center"> 
-<img src="https://yt3.googleusercontent.com/H9G0Zn1FNBJeXMbmzataMXZDVsDLesSXQNe0CRNXpVyfw4miNUM_o8ZkdKOlkFtE5_m-RKLp=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"> </div>
-</div>
-
+### <h2></h2>
 <div align="center"> 
 <h3> <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg"> Sou Uma Dev Flutter. Gosto Muito de Programação...</h3>  
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
