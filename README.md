@@ -25,9 +25,9 @@
  </h3> 
 
 <h3 align="center">
-   <img height="40" width="40" src="https://play-lh.googleusercontent.com/tjOZkmhZEmfqopQ2xJYo2Ye4pKW6-S4VPV6HNJr4Hk-ildMwguzh9E3LJRJljzToW0I=w240-h480-rw" target="_blank">
-   Quiz Bíblico. Link:  <a href="https://play.google.com/store/apps/details?id=br.com.dev.quiz_biblico" target="_blank"></a> 
- </h3> 
+  <a href="https://play.google.com/store/apps/details?id=br.com.dev.quiz_biblico" target="_blank"> Quiz Bíblico. <img height="40" width="40" src="https://play-lh.googleusercontent.com/tjOZkmhZEmfqopQ2xJYo2Ye4pKW6-S4VPV6HNJr4Hk-ildMwguzh9E3LJRJljzToW0I=w240-h480-rw" target="_blank">
+  </a> 
+</h3> 
 
   
   <h3>Contatos:</h3> 
