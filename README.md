@@ -1,8 +1,8 @@
 ### <h2>Olá sou Dalila!!!!👋</h2>
 <div align="left">
 <h3 align="center">"Tenho um canal no youtube com o objetivo de promover meus aplicativos para que possam instalá-los e usá-los em celulares. Sempre que eu lançar um novo aplicativo farei vídeos para informar."   
-  <img src="https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png">
-  <a target="_blank" href="www.youtube.com/@lilasantana"></a></h3></div> 
+ 
+  <a target="_blank" href="www.youtube.com/@lilasantana"> <img height="30" width="40" src="https:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png"></a></h3></div> 
   
 <!--<h4> <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg"> Sou Uma Dev Flutter. Gosto Muito de Programação...</h4> -->
 
