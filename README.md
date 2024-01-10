@@ -19,8 +19,9 @@
   <img height="186em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalilaDeveloperMobile&layout=compact&langs_count=7&theme=vue"/>   
 </div>
 
- <h3 align="left">"Tenho 5 APPS na Google Play Store"
+ <h3 align="center">
    <img height="40" width="40" src="https://helios-i.mashable.com/imagery/articles/04EZglaVzAW19V6FIiDD3TA/images-1.fit_lim.size_376x.png" target="_blank">
+   Tenho 5 APPS na Google Play Store:
  </h3> 
   
   <h3>Contatos:</h3> 
