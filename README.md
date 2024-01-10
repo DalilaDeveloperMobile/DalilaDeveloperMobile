@@ -1,8 +1,8 @@
 ### <h2>Olá sou Dalila!!!!👋</h2>
 <div align="left">
   <h3 align="center">"Tenho um canal no youtube com o objetivo de promover meus aplicativos para que possam instalá-los e usá-los em celulares. Sempre que eu lançar um novo aplicativo farei vídeos para informar."</h3>   
- 
-  <a href="https://www.youtube.com/channel/UCIpdS7RBgoSJ1ir6Moj3s4w"><h3 align="center">www.youtube.com/@lilasantana</h3><img height="40" width="40" src="https://yt3.googleusercontent.com/qcmNO_rYyGCg0GuDdy5EeFTiTmZWHryVTCLumINe-ihVYgWXl-92pzAaaRZVMBz8Q9azPeHVC7s=s900-c-k-c0x00ffffff-no-rj"></a>
+  <h3 align="center">www.youtube.com/@lilasantana</h3>
+  <a href="https://www.youtube.com/channel/UCIpdS7RBgoSJ1ir6Moj3s4w"><img height="40" width="40" src="https://yt3.googleusercontent.com/qcmNO_rYyGCg0GuDdy5EeFTiTmZWHryVTCLumINe-ihVYgWXl-92pzAaaRZVMBz8Q9azPeHVC7s=s900-c-k-c0x00ffffff-no-rj"></a>
   
 </div> 
   
