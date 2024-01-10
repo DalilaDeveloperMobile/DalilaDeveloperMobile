@@ -1,5 +1,10 @@
 ### <h2>Olá sou Dalila!!!!👋</h2>
 
+<div align="center"> 
+<img src="https://yt3.googleusercontent.com/H9G0Zn1FNBJeXMbmzataMXZDVsDLesSXQNe0CRNXpVyfw4miNUM_o8ZkdKOlkFtE5_m-RKLp=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"> </div>
+<h3 align="center">"Este canal tem o objetivo de promover meus aplicativos para que vocês possam instalá-los e usá-los em seus celulares. Sempre que eu lançar um novo aplicativo ou tiver atualizações, farei vídeos para mantê-los informados."   <a>www.youtube.com/@lilasantana</a></h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <h4> <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg"> Sou Uma Dev Flutter. Gosto Muito de Programação...</h4>
 
 <div align="center">
