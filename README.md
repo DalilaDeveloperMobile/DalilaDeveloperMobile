@@ -61,7 +61,7 @@
     
   
  <div align="center">
-  <h3 align="center">VISITANTES</h3>  
+  <h3 align="center">Seguidores. Visitantes.</h3>  
   <img align="center" alt="Csharp" height="30" width="150" src="https://img.shields.io/github/followers/DalilaDeveloperMobile?label=follow&style=social&logoColor=black" /> 
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=DalilaDeveloperMobile&color=green" alt="DalilaDeveloperMobile" /> <br>
  </div>    
