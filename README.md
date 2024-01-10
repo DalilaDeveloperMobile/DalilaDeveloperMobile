@@ -6,7 +6,7 @@
 <h3 align="right">"Tenho um canal no youtube com o objetivo de promover meus aplicativos para que possam instalá-los e usá-los em celulares. Sempre que eu lançar um novo aplicativo farei vídeos para informar."   
   <a>www.youtube.com/@lilasantana</a></h3>
   
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/AjA6.gif">
 
 
 <div align="center">
