@@ -9,14 +9,6 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </div> 
 
-## ⭐ GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/DalilaDeveloperMobile">
-  <img height="186em" src="https://github-readme-stats.vercel.app/api?username=DalilaDeveloperMobile&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="186em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalilaDeveloperMobile&layout=compact&langs_count=7&theme=vue"/>   
-</div>
-
 ##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Tenho 5 APPS na Google Play Store 
 
 <div align="center" style="display: inline-block">
@@ -37,6 +29,14 @@
     Expenses. 
     </a>
   </h3>
+</div>
+
+## ⭐ GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/DalilaDeveloperMobile">
+  <img height="186em" src="https://github-readme-stats.vercel.app/api?username=DalilaDeveloperMobile&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="186em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalilaDeveloperMobile&layout=compact&langs_count=7&theme=vue"/>   
 </div>
   
 ##  🤝 Entre Em Contato
