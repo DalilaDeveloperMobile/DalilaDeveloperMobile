@@ -19,11 +19,11 @@
   <img height="186em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalilaDeveloperMobile&layout=compact&langs_count=7&theme=vue"/>   
 </div>
 
-  <h3 align="center">
+  <h3 align="left">
    Tenho 5 APPS na Google Play Store:
   </h3> 
  
-<div align="center" style="display: inline-block">
+<div align="left" style="display: inline-block">
   <h3> 
     <a href="https://play.google.com/store/apps/details?id=br.com.dev.quiz_biblico" target="_blank"> 
     Quiz Bíblico.  
