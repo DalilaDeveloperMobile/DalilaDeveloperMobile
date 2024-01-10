@@ -3,10 +3,10 @@
 
 <div align="center"> 
 <img src="https://yt3.googleusercontent.com/H9G0Zn1FNBJeXMbmzataMXZDVsDLesSXQNe0CRNXpVyfw4miNUM_o8ZkdKOlkFtE5_m-RKLp=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"> </div>
-<h3 align="right">"Tenho um canal no youtube com o objetivo de promover meus aplicativos para que possam instalá-los e usá-los em celulares. Sempre que eu lançar um novo aplicativo farei vídeos para informar."   
+<h3 align="center">"Tenho um canal no youtube com o objetivo de promover meus aplicativos para que possam instalá-los e usá-los em celulares. Sempre que eu lançar um novo aplicativo farei vídeos para informar."   
   <a>www.youtube.com/@lilasantana</a></h3>
   
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/AjA6.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/f440ySfSBfQAAAAM/takane-lui-hacker-man.gif">
 
 
 <div align="center">
