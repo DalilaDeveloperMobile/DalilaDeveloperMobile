@@ -28,6 +28,9 @@
     <a href="https://play.google.com/store/apps/details?id=br.com.dev.expenses" target="_blank"> 
     Expenses. 
     </a>
+    <a href="https://play.google.com/store/apps/details?id=br.com.dev.meals" target="_blank"> 
+    Meals. 
+    </a>
   </h3>
 </div>
 
