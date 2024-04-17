@@ -52,6 +52,11 @@
   <a href="https://instagram.com/dalila.dalila70" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5588997138541"><img  alt="Whatsapp" width="117px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
 </div>
+
+## 📚 Repositórios
+
+### Tarefas Realizadas Nesse Bootcamp Microsoft Azure AI Fundamentals. [dio_me](https://www.dio.me/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=dio-practice-microsoft-azure-ai-fundamentals)](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals)
  
 ##  🛠️ Minhas Ferramentas
 
@@ -62,7 +67,7 @@
   <img align="center" alt="android studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg">
   <img align="center" alt="Google Play Store" height="30" width="30" src="https://c.clc2l.com/t/g/o/google-playstore-Iauj7q.png"><br>
 </div>
- 
+
  <div align="center">
   <h3 align="center">Seguidores. Visitantes.</h3>  
   <img align="center" alt="Csharp" height="30" width="150" src="https://img.shields.io/github/followers/DalilaDeveloperMobile?label=follow&style=social&logoColor=black" />
