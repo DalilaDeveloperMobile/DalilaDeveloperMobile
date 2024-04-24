@@ -55,6 +55,9 @@
 
 ## 📚 Repositórios
 
+### Passos Iniciais Realizados Nesse Curso Dart. [Udemy](https://www.udemy.com/share/102BJd3@p7zF8f-YB0nkcOJISuzPfXix_GDnC12tgJxvGnEISfHqFoA9-apHEm-t6VMzYTVx/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=Fundamentos-Dart)](https://github.com/DalilaDeveloperMobile/Fundamentos-Dart.git)
+
 ### Tarefas Realizadas Nesse Bootcamp Microsoft Azure AI Fundamentals. [dio_me](https://www.dio.me/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=dio-practice-microsoft-azure-ai-fundamentals)](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals)
  
