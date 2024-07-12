@@ -27,8 +27,8 @@
     <a href="https://play.google.com/store/apps/details?id=br.com.dev.market_multi" target="_blank"> 
     Market Multi. 
     </a>
-    <a href="https://play.google.com/store/apps/details?id=br.com.dev.expenses" target="_blank"> 
-    Expenses. 
+    <a href="https://play.google.com/store/apps/details?id=br.com.dev.campo_minado" target="_blank"> 
+    Campo Minado. 
     </a>
     <a href="https://play.google.com/store/apps/details?id=br.com.dev.meals" target="_blank"> 
     Meals. 
