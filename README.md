@@ -70,7 +70,7 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg">
   <img align="center" alt="Windows" height="30" width="40" src="https://www.svgrepo.com/show/52775/windows.svg">  
-  <img align="center" alt="Web" height="30" width="40" src="https://www.svgrepo.com/show/278317/internet-www.svg">    
+  <img align="center" alt="Web" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png">    
   <img align="center" alt="Google Play Store" height="30" width="30" src="https://c.clc2l.com/t/g/o/google-playstore-Iauj7q.png">
   <img align="center" alt="Google Ads" height="30" width="40" src="https://www.svgrepo.com/show/353800/google-ads.svg">
   <img align="center" alt="Google Admob" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg"><br>
