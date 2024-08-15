@@ -64,6 +64,7 @@
 ##  🛠️ Minhas Ferramentas
 
   <div style="display: inline-block">
+  <img align="center" alt="Canvas" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />  
   <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
