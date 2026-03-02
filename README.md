@@ -11,7 +11,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </div> 
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Tenho APPS Nesse Portfólio Developer. <a href="https://daliladevelopermobile.github.io/" target="_blank"> Portfólio Developer </a>
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Tenho APPS Nesse <a href="https://daliladevelopermobile.github.io/" target="_blank"> Portfólio Developer. </a>
   
 ##  🤝 Entre Em Contato
  
