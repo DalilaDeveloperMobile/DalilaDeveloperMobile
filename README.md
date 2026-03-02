@@ -11,43 +11,13 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </div> 
 
-##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Tenho 7 APPS Nesse Portfólio Developer e No Google Play.
+##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Tenho APPS Nesse Portfólio Developer.
 
 <div align="center" style="display: inline-block">
   <h3> 
     <a href="https://daliladevelopermobile.github.io/" target="_blank"> 
    ⭐⭐⭐ Portfólio Developer ⭐⭐⭐ 
     </a>
-
- <a href="https://play.google.com/store/apps/details?id=br.com.dev.projeto_ecoar" target="_blank"> 
-    Projeto Ecoar. 
-    </a>
-
- <a href="https://play.google.com/store/apps/details?id=br.com.dev.quiz_biblico" target="_blank"> 
-    Quiz Bíblico. 
-    </a>
- 
- <a href="https://play.google.com/store/apps/details?id=br.com.dev.flix_believer" target="_blank"> 
-    Flix Believer. 
-    </a>
-   
- <a href="https://play.google.com/store/apps/details?id=br.com.dev.dizimos_ofertas" target="_blank"> 
-    Dízimos Ofertas. 
-    </a>
-  
-  <a href="https://play.google.com/store/apps/details?id=br.com.dev.market_multi" target="_blank"> 
-    Market Multi. 
-    </a>
-   
- <a href="https://play.google.com/store/apps/details?id=br.com.dev.campo_minado" target="_blank"> 
-    Campo Minado. 
-    </a>
-   
- <a href="https://play.google.com/store/apps/details?id=br.com.dev.meals" target="_blank"> 
-    Meals. 
-    </a>
-  </h3>
-</div>
 
 ## ⭐ GitHub Stats
 
