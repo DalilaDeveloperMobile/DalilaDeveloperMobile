@@ -91,7 +91,7 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 
 <div align="center">
 
-![Seguidores](https://img.shields.io/github/followers/DalilaDeveloperMobile?style=for-the-badge&label=Seguidores&color=blue)
+![Seguidores](https://img.shields.io/github/followers/DalilaDeveloperMobile?style=for-the-badge&label=Seguidores)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=DalilaDeveloperMobile&style=for-the-badge&color=green)
 
