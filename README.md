@@ -29,7 +29,6 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 
 👉 https://daliladevelopermobile.github.io/
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
