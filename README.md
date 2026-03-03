@@ -43,18 +43,6 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 <img height="45" src="https://www.svgrepo.com/show/52775/windows.svg">
 
 </div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DalilaDeveloperMobile&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DalilaDeveloperMobile&layout=compact&theme=tokyonight"/>
-
-</div>
 ---
 
 ## 🔥 Streak de Contribuições
@@ -70,17 +58,17 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 ## 📚 Projetos em Destaque
 
 ### 🚀 Microsoft Azure AI Fundamentals – DIO
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=dio-practice-microsoft-azure-ai-fundamentals&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals)
+[(https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=dio-practice-microsoft-azure-ai-fundamentals&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals)
 
 ---
 
 ### 📘 Fundamentos Dart – Udemy
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=Fundamentos-Dart&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/Fundamentos-Dart)
+[(https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=Fundamentos-Dart&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/Fundamentos-Dart)
 
 ---
 
 ### 📱 Curso Flutter – Udemy
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=aprender_flutter_dart_ios_android&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/aprender_flutter_dart_ios_android)
+[(https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=aprender_flutter_dart_ios_android&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/aprender_flutter_dart_ios_android)
 
 ---
 
