@@ -43,7 +43,6 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 <img height="45" src="https://www.svgrepo.com/show/52775/windows.svg">
 
 </div>
----
 
 ## 🔥 Streak de Contribuições
 
