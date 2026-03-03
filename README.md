@@ -48,13 +48,7 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DalilaDeveloperMobile&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalilaDeveloperMobile&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=DalilaDeveloperMobile&show_icons=true)
 
 ---
 
