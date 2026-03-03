@@ -66,15 +66,15 @@ Meu objetivo é evoluir constantemente na área de tecnologia e publicar aplicat
 
 <div align="center">
 
-[[Microsoft Azure AI Fundamentals](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=dio-practice-microsoft-azure-ai-fundamentals&theme=tokyonight&border_radius=10)](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals)
+🔹 Microsoft Azure AI Fundamentals – DIO: https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals
 
 <br>
 
-[[Fundamentos Dart](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=Fundamentos-Dart&theme=tokyonight&border_radius=10)](https://github.com/DalilaDeveloperMobile/Fundamentos-Dart)
+🔹 Fundamentos Dart: https://github.com/DalilaDeveloperMobile/Fundamentos-Dart
 
 <br>
 
-[[Curso Flutter](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=aprender_flutter_dart_ios_android&theme=tokyonight&border_radius=10)](https://github.com/DalilaDeveloperMobile/aprender_flutter_dart_ios_android)
+🔹 Curso Flutter: https://github.com/DalilaDeveloperMobile/aprender_flutter_dart_ios_android
 
 </div>
 
