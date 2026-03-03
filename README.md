@@ -48,8 +48,13 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 
 ## 📊 Estatísticas GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DalilaDeveloperMobile&show_icons=true)
+<div align="center">
 
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DalilaDeveloperMobile&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DalilaDeveloperMobile&layout=compact&theme=tokyonight"/>
+
+</div>
 ---
 
 ## 🔥 Streak de Contribuições
