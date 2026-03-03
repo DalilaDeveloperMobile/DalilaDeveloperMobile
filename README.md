@@ -1,53 +1,74 @@
-# 👋 Olá, eu sou a Dalila Custódio!
+# 👩‍💻 Dalila Custódio  
 
 <div align="center">
 
-💙 Desenvolvedora Flutter  
-📱 Criadora de Aplicativos Mobile  
-🚀 Apaixonada por Tecnologia  
+### 💙 Flutter Developer | Mobile • Web • Windows  
+🚀 Construindo aplicativos modernos e funcionais  
+📱 Transformando ideias em soluções digitais  
 
 <br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@lilasantana-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lilasantana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalila%20Custódio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalila-cust%C3%B3dio-046076181/)
+[![Instagram](https://img.shields.io/badge/Instagram-@dalila.dalila70-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dalila.dalila70)
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre Mim
+## ✨ Sobre Mim
 
-Sou desenvolvedora focada em **Flutter**, criando aplicativos para Android, Web e Windows.  
-Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar aplicativos que ajudem pessoas no dia a dia.
+Sou desenvolvedora especializada em **Flutter**, criando aplicações modernas para:
 
-🎯 Sempre que lanço um novo aplicativo, publico vídeos explicando no meu canal.
+- 📱 Android  
+- 🌐 Web  
+- 💻 Windows  
+
+Meu objetivo é evoluir constantemente na área de tecnologia e publicar aplicativos que ajudem pessoas no dia a dia.
+
+🎥 Sempre que lanço um novo app, publico vídeos explicativos no meu canal do YouTube.
 
 ---
 
-## 🌐 Portfólio
-
-🔗 Acesse meus aplicativos publicados:
-
-👉 https://daliladevelopermobile.github.io/
-
-
-## 🛠️ Tecnologias e Ferramentas
+## 🌍 Portfólio
 
 <div align="center">
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img height="45" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
-<img height="45" src="https://www.svgrepo.com/show/52775/windows.svg">
+### 🔗 Acesse meus aplicativos publicados:
+### 👉 https://daliladevelopermobile.github.io/
 
 </div>
 
-## 🔥 Streak de Contribuições
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DalilaDeveloperMobile&theme=tokyonight&hide_border=false"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+
+</div>
+
+---
+
+## 🔥 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DalilaDeveloperMobile&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DalilaDeveloperMobile&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalilaDeveloperMobile&layout=compact&theme=tokyonight&border_radius=10"/>
 
 </div>
 
@@ -55,30 +76,39 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 
 ## 📚 Projetos em Destaque
 
-### 🚀 Microsoft Azure AI Fundamentals – DIO
-[(https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=dio-practice-microsoft-azure-ai-fundamentals&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals)
+<div align="center">
+
+[![Microsoft Azure AI Fundamentals](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=dio-practice-microsoft-azure-ai-fundamentals&theme=tokyonight&border_radius=10)](https://github.com/DalilaDeveloperMobile/dio-practice-microsoft-azure-ai-fundamentals)
+
+<br>
+
+[![Fundamentos Dart](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=Fundamentos-Dart&theme=tokyonight&border_radius=10)](https://github.com/DalilaDeveloperMobile/Fundamentos-Dart)
+
+<br>
+
+[![Curso Flutter](https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=aprender_flutter_dart_ios_android&theme=tokyonight&border_radius=10)](https://github.com/DalilaDeveloperMobile/aprender_flutter_dart_ios_android)
+
+</div>
 
 ---
 
-### 📘 Fundamentos Dart – Udemy
-[(https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=Fundamentos-Dart&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/Fundamentos-Dart)
-
----
-
-### 📱 Curso Flutter – Udemy
-[(https://github-readme-stats.vercel.app/api/pin/?username=DalilaDeveloperMobile&repo=aprender_flutter_dart_ios_android&theme=tokyonight)](https://github.com/DalilaDeveloperMobile/aprender_flutter_dart_ios_android)
-
----
-
-## 🤝 Entre em Contato
+## 📊 Comunidade
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalila-cust%C3%B3dio-046076181/)
+![Seguidores](https://img.shields.io/github/followers/DalilaDeveloperMobile?style=for-the-badge&label=Seguidores&color=blue)
+
+![Visitantes](https://komarev.com/ghpvc/?username=DalilaDeveloperMobile&style=for-the-badge&color=0e75b6)
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalila.dalila70@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dalila.dalila70)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588997138541)
 
@@ -88,16 +118,7 @@ Tenho como objetivo crescer profissionalmente na área de tecnologia e publicar 
 
 <div align="center">
 
-![Seguidores](https://img.shields.io/github/followers/DalilaDeveloperMobile?style=for-the-badge&label=Seguidores)
-
-![Visitantes](https://komarev.com/ghpvc/?username=DalilaDeveloperMobile&style=for-the-badge&color=green)
-
-</div>
-
----
-<div align="center">
-
-⭐ Obrigada por visitar meu perfil!  
-🚀 Sempre em evolução!
+### ⭐ Obrigada por visitar meu perfil!  
+🚀 Sempre evoluindo • Sempre criando • Sempre aprendendo
 
 </div>
